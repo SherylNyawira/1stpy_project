@@ -2,7 +2,7 @@ import random
 
 def explore_galaxy():
     print("Welcome to the Unknown Galaxy!")
-    print("You are the captain of a spaceship and your mission is to explore this uncharted territory.")
+    print("You are the captain of a spaceship and your mission is to explore this uncharted territory. ")
     print("You have two options:")
     print("1. Explore a nearby planet")
     print("2. Investigate a strange anomaly")
