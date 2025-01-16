@@ -84,7 +84,7 @@ def continue_exploring():
 def engage_in_battle():
     print("You engage in a space battle with the hostile alien race.")
     print("Unfortunately, your spaceship is no match for their advanced technology.")
-    print("Your mission ends in failure.")
+    print("Your mission ends.")
 
 def negotiate_peace():
     print("You successfully negotiate a peace treaty with the hostile alien race.")
