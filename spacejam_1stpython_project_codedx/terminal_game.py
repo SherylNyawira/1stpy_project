@@ -7,7 +7,7 @@ def explore_galaxy():
     print("1. Explore a nearby planet")
     print("2. Investigate a strange anomaly")
 
-    choice = input("Enter your choice (1 or 2): ")
+    choice = input("Please Enter your choice (1 or 2): ")
 
     if choice == "1":
         explore_planet()
